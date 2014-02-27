@@ -1,7 +1,7 @@
 {
   "name": "darkmatter-theme",
   "theme": "ui",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "DarkMatter theme for Atom.io",
   "license": "MIT",
   "repository": "https://github.com/sillero/darkmatter-theme",
