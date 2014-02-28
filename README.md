@@ -1,6 +1,6 @@
 # Atom DarkMatter UI theme
 
 A fork of the default dark UI theme for Atom.  
-The main difference for now is the unskewed and slimmer tabs
+Enjoy :)
 
 ![](https://raw.github.com/sillero/darkmatter-theme/master/darkmatter-theme.png)
